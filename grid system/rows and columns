@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="col" style="background-color:red; border: 1px solid;">
+        col
+    </div
+    <div class="col" style="background-color:red; border: 1px solid;">
+        col
+    </div>
+    <div class="col" style="background-color:red; border: 1px solid;">
+        col
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-6" background-color:red; border: 1px solid;>
+            col-6
+            </div>
+            <div class="col-3" background-color:red; border: 1px solid;>
+            col-3
+            </div>
+            <div class="col-2" background-color:red; border: 1px solid;>
+            col-2
+            </div>
+            <div class="col-1" background-color:red; border: 1px solid;>
+            col-1
+            </div>
+    </div>
+    <div class="row>
+    <div class="col-md-6" style="background-color: blue; border: 1 px solid;">
+    col-md-6
+    </div>
+    </div>
+    
